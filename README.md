@@ -1,5 +1,4 @@
-### Hi there 👋
-
+👋
 # Alisher Kankelov
 Future software engineer and tech lead with experience in developing, constructing, and managing large-scale distributed systems. focused to natural language processing, cloud architecture and orchestration, AI/ML infrastructure, big data processing and storage, and searchProficient in Python and C.
 
