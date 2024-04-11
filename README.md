@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**akankelov27/akankelov27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alisher Kankelov
+Future software engineer and tech lead with experience in developing, constructing, and managing large-scale distributed systems. focused to natural language processing, cloud architecture and orchestration, AI/ML infrastructure, big data processing and storage, and searchProficient in Python and C.
 
-Here are some ideas to get you started:
+![techStack](https://github.com/akhmadmamirov/akhmadmamirov/assets/105142060/04914f33-870e-4fd1-9913-be4aff89f716)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐼 About Me
+- CS @ 13th School Gymnasium, Bishkek
+- Analyzing, Fixing, Writing - Graphs
+
+## 🔫 Weapon of Choice 
+- C, Python 
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kankelov/)
